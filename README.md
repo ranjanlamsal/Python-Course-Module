@@ -19,6 +19,10 @@ mit-python-course/
 
 Each week follows this same shape. Nothing here is graded — assessments exist so that the next session's 30-minute instructor-led review has real material to dissect.
 
+## New to Git/GitHub?
+
+This is how you submit every assignment in this course — there's no other mechanism. Read **[`Git & GitHub Guide.md`](./Git%20&%20GitHub%20Guide.md)** before Week 1's weekend assignment is due. It's not covered in class, so it's written to be fully self-sufficient.
+
 ## How to use this repo
 
 - **If you're in class:** the handbook `.md` files are what's on the projector. Follow along, run the demo `.py` files yourself in your own terminal as we go.
