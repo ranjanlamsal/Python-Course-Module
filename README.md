@@ -32,7 +32,7 @@ This is how you submit every assignment in this course — there's no other mech
 ## Current status
 
 - [x] Week 1 — Environment, Variables, Types, Operators, Conditionals, Loops
-- [ ] Week 2 — Lists, Tuples, Dictionaries, Sets
+- [x] Week 2 — Lists, Tuples, Dictionaries, Sets
 - [ ] Week 3 — Functions, Lambda, File I/O, Exceptions
 - [ ] Week 4 — Object-Oriented Programming
 - [ ] Final Project — Inventory & Invoice Management System
