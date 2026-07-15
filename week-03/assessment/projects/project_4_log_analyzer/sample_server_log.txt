@@ -1,0 +1,30 @@
+2024-01-15 10:00:00 | INFO | Server started on port 8080
+2024-01-15 10:00:15 | INFO | Database connection established
+2024-01-15 10:01:00 | INFO | User 'alice' logged in
+2024-01-15 10:02:00 | WARNING | High memory usage detected (85%)
+2024-01-15 10:03:00 | INFO | Request processed in 120ms
+malformed line without delimiters
+2024-01-15 10:04:00 | ERROR | Database connection lost
+2024-01-15 10:04:05 | INFO | Attempting to reconnect to database
+2024-01-15 10:04:10 | ERROR | Reconnection failed after 3 attempts
+another malformed line
+2024-01-15 10:05:00 | INFO | User 'bob' logged in
+2024-01-15 10:05:30 | INFO | User 'charlie' logged in
+2024-01-15 10:06:00 | WARNING | API rate limit approaching (90%)
+2024-01-15 10:07:00 | ERROR | External API timeout after 30 seconds
+2024-01-15 10:07:05 | WARNING | Retrying external API request
+2024-01-15 10:08:00 | INFO | Fallback to cached data
+2024-01-15 10:08:30 | INFO | Request completed successfully
+2024-01-15 10:09:00 | INFO | User 'alice' logged out
+2024-01-15 10:10:00 | ERROR | Disk space low (15% remaining)
+2024-01-15 10:11:00 | WARNING | Background job queue at 75% capacity
+2024-01-15 10:12:00 | INFO | Scheduled maintenance notification sent
+2024-01-15 10:13:00 | ERROR | Failed to send email notification
+incomplete line | INFO
+2024-01-15 10:14:00 | INFO | Email notification retry successful
+2024-01-15 10:15:00 | INFO | Hourly health check passed
+2024-01-15 10:16:00 | WARNING | Memory usage still high (82%)
+2024-01-15 10:17:00 | INFO | Background cleanup started
+2024-01-15 10:18:00 | INFO | Freed 500MB of cache memory
+2024-01-15 10:19:00 | INFO | Memory usage normalized (65%)
+2024-01-15 10:20:00 | INFO | All systems operational
